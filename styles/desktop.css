@@ -1,5 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway);
-h1,
+
+h1 {
+  color:#fff
+}
+
 h2 {
   font-family: "Raleway", sans-serif;
 }
